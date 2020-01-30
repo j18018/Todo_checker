@@ -20,7 +20,7 @@ import java.sql.Statement
 class MainActivity : AppCompatActivity(), View.OnClickListener {
 
     private val texts = arrayOf(
-        "abc ", "bcd"
+        "abc ", "bcda"
     )
 
 
