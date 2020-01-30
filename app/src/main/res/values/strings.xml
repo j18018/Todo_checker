@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">todo</string>
+    <string name="add">+</string>
+    <string name="title">タイトルを入力してください</string>
+    <string name="confirm">確定</string>
+    <string name="totitle">今日やること</string>
+    <string name="input">タイトル</string>
+    <string name="dotitle">タイトル</string>
+</resources>
